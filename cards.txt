@@ -1,0 +1,7 @@
+# 形式: 単語 ｜ 【例】 スペイン語例文 (日本語訳) ｜ 補足(任意。スペインとチリの違いなど)
+# 1行1枚。# で始まる行は無視。同じ単語が2回あれば最初の行だけ使う。
+estampado/a ｜ 【例】 Me gustan los vestidos estampados de flores. (私は花柄のワンピースが好きだ。)
+la polera ｜ 【例】 Me compré una polera blanca en el mall. (モールで白いTシャツを買った。) ｜ チリでは「Tシャツ」。スペインでは camiseta が一般的
+el pololo / la polola ｜ 【例】 Mi polola trabaja en Providencia. (僕の彼女はプロビデンシアで働いている。) ｜ チリ特有の「恋人」。スペインでは novio/novia
+la guagua ｜ 【例】 La guagua está durmiendo, habla despacito. (赤ちゃんが寝てるから小声で話して。) ｜ チリでは「赤ちゃん」。カナリア諸島やキューバでは「バス」の意味
+al tiro ｜ 【例】 Te mando el informe al tiro. (すぐに報告書を送るね。) ｜ チリ口語の「すぐに」。スペインでは enseguida / ahora mismo
