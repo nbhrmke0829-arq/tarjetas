@@ -5,3 +5,259 @@ la polera ｜ 【例】 Me compré una polera blanca en el mall. (モールで�
 el pololo / la polola ｜ 【例】 Mi polola trabaja en Providencia. (僕の彼女はプロビデンシアで働いている。) ｜ チリ特有の「恋人」。スペインでは novio/novia
 la guagua ｜ 【例】 La guagua está durmiendo, habla despacito. (赤ちゃんが寝てるから小声で話して。) ｜ チリでは「赤ちゃん」。カナリア諸島やキューバでは「バス」の意味
 al tiro ｜ 【例】 Te mando el informe al tiro. (すぐに報告書を送るね。) ｜ チリ口語の「すぐに」。スペインでは enseguida / ahora mismo
+
+# ===== DELE B2: 仕事・経済 =====
+el desempleo ｜ 【例】 La tasa de desempleo ha bajado por tercer trimestre consecutivo. (失業率が3四半期連続で下がった。) ｜ スペインでは el paro もよく使う。チリでは la cesantía(失業手当は seguro de cesantía)
+la jornada laboral ｜ 【例】 Muchos trabajadores piden reducir la jornada laboral a 40 horas. (多くの労働者が労働時間を40時間に短縮するよう求めている。)
+el contrato indefinido ｜ 【例】 Por fin me ofrecieron un contrato indefinido. (ついに無期雇用契約を提示された。) ｜ 有期契約はチリで contrato a plazo fijo
+la plantilla ｜ 【例】 La empresa ha reducido su plantilla un diez por ciento. (その会社は従業員数を10%削減した。) ｜ スペイン的な語。チリでは el personal / la dotación が普通
+despedir ｜ 【例】 Despidieron a veinte trabajadores sin previo aviso. (予告なしに20人の労働者が解雇された。) ｜ 名詞は el despido。チリでは「desvincular」(婉曲表現)もよく使う
+el ascenso ｜ 【例】 Rechazó el ascenso porque implicaba mudarse. (引っ越しを伴うため、彼は昇進を断った。)
+la competencia ｜ 【例】 La competencia en el sector es cada vez más dura. (その業界の競争はますます激しくなっている。) ｜ 「能力・権限」の意味もある
+el beneficio ｜ 【例】 La empresa obtuvo beneficios récord este año. (会社は今年記録的な利益を上げた。) ｜ チリでは「las utilidades」もよく使う
+la inversión ｜ 【例】 El gobierno anunció una fuerte inversión en infraestructura. (政府はインフラへの大規模な投資を発表した。)
+el presupuesto ｜ 【例】 Nos pasamos del presupuesto en casi un veinte por ciento. (予算をほぼ20%オーバーした。) ｜ 「見積もり」の意味でも使う(pedir un presupuesto)。チリでは見積もりは cotización
+la deuda ｜ 【例】 Tardó años en pagar la deuda de la hipoteca. (住宅ローンの借金を返すのに何年もかかった。) ｜ 住宅ローンはチリで crédito hipotecario
+el impuesto ｜ 【例】 Subirán los impuestos sobre el tabaco y el alcohol. (タバコと酒の税金が上がる予定だ。)
+la inflación ｜ 【例】 La inflación ha afectado sobre todo a los alimentos. (インフレは特に食料品に影響した。)
+la oferta y la demanda ｜ 【例】 El precio depende de la oferta y la demanda. (価格は需要と供給で決まる。) ｜ 語順が日本語と逆(供給と需要)
+el autónomo / la autónoma ｜ 【例】 Trabaja como autónomo desde que dejó la empresa. (会社を辞めてから彼は個人事業主として働いている。) ｜ スペインの語。チリでは trabajador independiente(boleta de honorarios で請求)
+la vacante ｜ 【例】 Hay una vacante en el departamento de compras. (購買部に欠員がある。)
+el requisito ｜ 【例】 Hablar inglés es un requisito imprescindible para el puesto. (英語を話せることはそのポストに不可欠な条件だ。)
+cualificado/a ｜ 【例】 Faltan trabajadores cualificados en el sector minero. (鉱業部門では熟練労働者が不足している。) ｜ スペインでは cualificado、中南米では calificado
+el teletrabajo ｜ 【例】 Desde la pandemia, el teletrabajo se ha vuelto habitual. (パンデミック以降、テレワークは当たり前になった。)
+la conciliación laboral y familiar ｜ 【例】 Las empresas deberían facilitar la conciliación laboral y familiar. (企業は仕事と家庭の両立を支援すべきだ。) ｜ スペインで頻出の表現。DELEの読解・作文でよく出る
+la huelga ｜ 【例】 Los trabajadores del puerto están en huelga desde el lunes. (港湾労働者は月曜からストライキ中だ。) ｜ チリでは「el paro」もストの意味で使う(スペインの paro=失業 と混同注意)
+el sindicato ｜ 【例】 El sindicato negocia un nuevo convenio colectivo. (労働組合が新しい労働協約を交渉している。)
+la jubilación ｜ 【例】 Quiere adelantar su jubilación a los sesenta. (彼は60歳に退職を早めたいと思っている。) ｜ 動詞は jubilarse
+la pensión ｜ 【例】 Muchos jubilados viven con una pensión muy baja. (多くの年金生活者がとても少ない年金で暮らしている。) ｜ チリの年金制度は AFP が有名
+el emprendimiento ｜ 【例】 El gobierno ofrece ayudas para el emprendimiento juvenil. (政府は若者の起業に支援を提供している。) ｜ チリでは emprendimiento / emprendedor が日常的によく使われる
+la rentabilidad ｜ 【例】 Antes de invertir, analizamos la rentabilidad del proyecto. (投資する前に、プロジェクトの収益性を分析する。) ｜ 形容詞は rentable
+el gasto ｜ 【例】 Los gastos de mantenimiento son más altos de lo previsto. (維持費が予想より高い。) ｜ 「de lo previsto」(予想より)はB2で頻出の比較表現
+la licitación ｜ 【例】 Tres empresas se presentaron a la licitación pública. (3社が公共入札に参加した。)
+el proveedor ｜ 【例】 Cambiamos de proveedor porque no cumplía los plazos de entrega. (納期を守らなかったので仕入れ先を変えた。)
+el plazo ｜ 【例】 El plazo para presentar la solicitud termina el viernes. (申請の期限は金曜日に終わる。) ｜ 「a plazos」=分割払いで。チリでは「en cuotas」が普通
+
+# ===== DELE B2: 教育・科学 =====
+la asignatura ｜ 【例】 Es una asignatura optativa, no obligatoria. (それは選択科目で、必修ではない。) ｜ チリでは「el ramo」が口語で一般的
+suspender ｜ 【例】 Suspendí el examen de conducir dos veces. (運転免許の試験に2回落ちた。) ｜ スペインの言い方。チリでは reprobar / echarse un ramo。合格は aprobar
+la beca ｜ 【例】 Consiguió una beca para estudiar un máster en Barcelona. (彼女はバルセロナで修士を学ぶ奨学金を得た。)
+la matrícula ｜ 【例】 El plazo de matrícula se abre en septiembre. (履修登録の期間は9月に始まる。) ｜ 「車のナンバー」の意味もある(チリでは patente)
+el rendimiento académico ｜ 【例】 El estrés afecta al rendimiento académico. (ストレスは学業成績に影響する。)
+el fracaso escolar ｜ 【例】 El fracaso escolar es mayor en zonas con pocos recursos. (学業不振は資源の乏しい地域で多い。)
+la formación ｜ 【例】 La empresa invierte mucho en la formación de sus empleados. (その会社は従業員の研修に多く投資している。) ｜ チリでは「la capacitación」が一般的
+la enseñanza ｜ 【例】 Se dedica a la enseñanza desde hace veinte años. (彼は20年前から教育に携わっている。)
+el profesorado ｜ 【例】 El profesorado reclama más recursos para las aulas. (教員たちは教室にもっと資源を求めている。) ｜ 集合名詞(単数扱い)。alumnado も同様
+el alumnado ｜ 【例】 El alumnado extranjero ha aumentado mucho. (外国人生徒が大幅に増えた。)
+la licenciatura ｜ 【例】 Hizo la licenciatura en Derecho y luego un doctorado. (彼は法学の学士を取り、その後博士号を取った。) ｜ チリでは学部・学位は「la carrera」「el título」と言うことが多い
+la tesis ｜ 【例】 Está terminando su tesis doctoral sobre el cambio climático. (彼女は気候変動に関する博士論文を仕上げている。)
+la investigación ｜ 【例】 Faltan fondos para la investigación científica. (科学研究のための資金が不足している。)
+el investigador / la investigadora ｜ 【例】 Un equipo de investigadores descubrió una nueva especie. (研究者チームが新種を発見した。)
+el hallazgo ｜ 【例】 El hallazgo podría cambiar el tratamiento de la enfermedad. (その発見はその病気の治療を変える可能性がある。)
+la hipótesis ｜ 【例】 Los datos no confirman la hipótesis inicial. (データは当初の仮説を裏付けていない。) ｜ 単複同形(las hipótesis)
+demostrar ｜ 【例】 El estudio demuestra que dormir poco afecta a la memoria. (その研究は睡眠不足が記憶に影響することを示している。)
+el avance ｜ 【例】 Ha habido grandes avances en la lucha contra el cáncer. (がんとの闘いで大きな進歩があった。)
+la muestra ｜ 【例】 La muestra del estudio incluía a mil personas. (その研究のサンプルは千人だった。) ｜ 「見本・試供品」「展示会」の意味もある
+el aprendizaje ｜ 【例】 El aprendizaje de idiomas es más fácil en la infancia. (言語の習得は幼少期の方が容易だ。)
+memorizar ｜ 【例】 No sirve de nada memorizar sin entender. (理解せずに暗記しても何の役にも立たない。)
+homologar un título ｜ 【例】 Necesitas homologar tu título para trabajar aquí. (ここで働くには学位の認定手続きが必要だ。) ｜ チリでは「revalidar / convalidar el título」とも言う
+la plaza ｜ 【例】 Solo hay treinta plazas para más de doscientos candidatos. (200人以上の志願者に対して定員は30人しかない。) ｜ 「広場」以外に「定員・ポスト」の意味
+la selectividad ｜ 【例】 Aprobó la selectividad con muy buena nota. (彼はとても良い成績で大学入試に合格した。) ｜ スペインの大学入試の通称(現在の正式名はPAU/EBAUなど)。チリでは PAES(旧PSU)
+la educación pública ｜ 【例】 Defiende una educación pública, gratuita y de calidad. (彼は公立で無償の質の高い教育を擁護している。)
+el abandono escolar ｜ 【例】 El abandono escolar aumentó durante la pandemia. (パンデミック中に中退が増えた。) ｜ チリでは「la deserción escolar」が一般的
+la guardería ｜ 【例】 La guardería abre a las siete de la mañana. (保育園は朝7時に開く。) ｜ チリでは sala cuna(2歳未満)、jardín infantil(それ以上)
+la evaluación ｜ 【例】 La evaluación continua cuenta un cuarenta por ciento de la nota. (平常評価が成績の40%を占める。)
+el conocimiento ｜ 【例】 Hay que compartir el conocimiento científico con la sociedad. (科学的知識を社会と共有しなければならない。)
+la divulgación científica ｜ 【例】 Su canal de divulgación científica tiene millones de seguidores. (彼の科学啓蒙チャンネルには何百万人ものフォロワーがいる。)
+
+# ===== DELE B2: 健康・医療 =====
+la baja médica ｜ 【例】 Estoy de baja desde hace dos semanas por una lesión. (けがで2週間前から病気休業中だ。) ｜ スペインの言い方。チリでは「estar con licencia (médica)」
+la lesión ｜ 【例】 Sufrió una lesión en la rodilla jugando al pádel. (パデル中に膝をけがした。) ｜ スペインでは jugar al pádel、中南米では jugar pádel(alを省く)も多い
+el síntoma ｜ 【例】 Los síntomas suelen aparecer a los tres días. (症状は通常3日後に現れる。) ｜ 男性名詞(el)
+el diagnóstico ｜ 【例】 Un diagnóstico precoz puede salvar vidas. (早期診断は命を救いうる。)
+el tratamiento ｜ 【例】 El tratamiento dura seis meses. (治療は6か月続く。)
+la receta ｜ 【例】 Este medicamento solo se vende con receta. (この薬は処方箋がないと買えない。) ｜ 「料理のレシピ」の意味もある
+recetar ｜ 【例】 El médico le recetó antibióticos. (医者は彼に抗生物質を処方した。)
+los efectos secundarios ｜ 【例】 El medicamento puede tener efectos secundarios como el mareo. (その薬にはめまいなどの副作用がありうる。)
+pedir hora ｜ 【例】 Pedí hora con el médico de cabecera. (かかりつけ医の予約を取った。) ｜ チリでは pedir hora が一般的。スペインでは pedir cita も多い
+la urgencia ｜ 【例】 Lo llevaron a urgencias con un fuerte dolor de pecho. (彼は激しい胸の痛みで救急に運ばれた。) ｜ スペインでは urgencias(複数形)、チリでは la urgencia(単数)と言うことが多い
+ingresar en el hospital ｜ 【例】 Tuvo que ingresar en el hospital para operarse. (手術のため入院しなければならなかった。) ｜ 中南米では internarse / hospitalizarse がより一般的
+la cirugía ｜ 【例】 La cirugía duró más de cuatro horas. (手術は4時間以上かかった。)
+la recuperación ｜ 【例】 La recuperación será lenta, pero completa. (回復はゆっくりだが完全なものになるだろう。)
+la prevención ｜ 【例】 La prevención es la mejor forma de reducir costes sanitarios. (予防は医療費を減らす最善の方法だ。) ｜ 「コスト」はスペインで costes、中南米で costos
+la vacuna ｜ 【例】 La vacuna contra la gripe es gratuita para los mayores. (インフルエンザのワクチンは高齢者には無料だ。)
+el contagio ｜ 【例】 Lavarse las manos reduce el riesgo de contagio. (手洗いは感染リスクを減らす。)
+la sanidad pública ｜ 【例】 La sanidad pública está saturada en invierno. (公的医療は冬に逼迫する。) ｜ スペインの語。チリでは la salud pública(公的保険 FONASA、民間 ISAPRE)
+el sedentarismo ｜ 【例】 El sedentarismo es uno de los grandes problemas de salud actuales. (運動不足は現代の大きな健康問題の一つだ。)
+la obesidad ｜ 【例】 La obesidad infantil ha aumentado en las últimas décadas. (小児肥満はここ数十年で増加した。)
+llevar una vida sana ｜ 【例】 Para llevar una vida sana, hay que dormir bien. (健康的な生活を送るにはよく眠ることだ。)
+agotado/a ｜ 【例】 Llegué agotado después del turno de noche. (夜勤の後くたくたで帰った。) ｜ 「売り切れ」の意味もある
+el insomnio ｜ 【例】 El insomnio puede estar relacionado con la ansiedad. (不眠は不安と関係していることがある。)
+la ansiedad ｜ 【例】 Muchos jóvenes sufren ansiedad por el futuro laboral. (多くの若者が仕事の将来に不安を抱えている。)
+la salud mental ｜ 【例】 Se habla cada vez más de la salud mental en el trabajo. (職場のメンタルヘルスがますます話題になっている。)
+la dieta equilibrada ｜ 【例】 Una dieta equilibrada incluye fruta, verdura y legumbres. (バランスの取れた食事には果物、野菜、豆類が含まれる。)
+el reposo ｜ 【例】 El médico me recomendó reposo absoluto. (医者に絶対安静を勧められた。)
+la esperanza de vida ｜ 【例】 La esperanza de vida ha aumentado mucho en el último siglo. (平均寿命は前世紀に大きく延びた。)
+crónico/a ｜ 【例】 La diabetes es una enfermedad crónica. (糖尿病は慢性疾患だ。)
+la herida ｜ 【例】 Hay que limpiar bien la herida antes de vendarla. (包帯を巻く前に傷をよく洗わなければならない。)
+la farmacia de turno ｜ 【例】 Busqué una farmacia de turno a medianoche. (夜中に当番薬局を探した。)
+
+# ===== DELE B2: 環境・自然 =====
+el cambio climático ｜ 【例】 El cambio climático está provocando sequías más largas. (気候変動はより長い干ばつを引き起こしている。)
+la sequía ｜ 【例】 La zona central de Chile sufre una megasequía desde hace más de una década. (チリ中部は10年以上大干ばつに見舞われている。)
+el calentamiento global ｜ 【例】 El calentamiento global está derritiendo los glaciares. (地球温暖化が氷河を溶かしている。)
+las emisiones ｜ 【例】 El objetivo es reducir las emisiones de CO2 a la mitad. (目標はCO2排出量を半減させることだ。)
+los combustibles fósiles ｜ 【例】 Dependemos demasiado de los combustibles fósiles. (私たちは化石燃料に頼りすぎている。)
+las energías renovables ｜ 【例】 Chile apuesta por las energías renovables, sobre todo la solar. (チリは再生可能エネルギー、特に太陽光に力を入れている。) ｜ apostar por=〜に賭ける・力を入れる(B2頻出)
+el reciclaje ｜ 【例】 El reciclaje de vidrio todavía es bajo en muchas ciudades. (多くの都市でガラスのリサイクル率はまだ低い。)
+los residuos ｜ 【例】 La minería genera grandes cantidades de residuos. (鉱業は大量の廃棄物を生み出す。) ｜ 日常語は la basura、行政・技術用語で residuos
+el vertedero ｜ 【例】 El vertedero municipal está a punto de llenarse. (市のごみ処分場は満杯寸前だ。)
+la contaminación ｜ 【例】 La contaminación del aire empeora en invierno en Santiago. (サンティアゴでは冬に大気汚染が悪化する。) ｜ 冬のスモッグはチリで「el esmog」とも
+la deforestación ｜ 【例】 La deforestación amenaza la biodiversidad del Amazonas. (森林破壊はアマゾンの生物多様性を脅かしている。)
+la biodiversidad ｜ 【例】 Los humedales son clave para la biodiversidad. (湿地は生物多様性にとって重要だ。) ｜ ser clave para=〜にとって鍵となる
+en peligro de extinción ｜ 【例】 El huemul es una especie en peligro de extinción. (ウエムルは絶滅危惧種だ。) ｜ huemul はチリの国章に描かれるシカ
+el ecosistema ｜ 【例】 La llegada de especies invasoras altera el ecosistema. (外来種の侵入は生態系を乱す。) ｜ -ma で終わるが男性名詞
+el incendio forestal ｜ 【例】 Los incendios forestales arrasaron miles de hectáreas. (山火事が何千ヘクタールも焼き尽くした。) ｜ arrasar=壊滅させる
+la escasez de agua ｜ 【例】 La escasez de agua obliga a racionar el suministro. (水不足で給水制限を余儀なくされている。)
+el consumo responsable ｜ 【例】 El consumo responsable empieza por comprar menos. (責任ある消費は買う量を減らすことから始まる。)
+sostenible ｜ 【例】 Buscamos un modelo de desarrollo más sostenible. (より持続可能な開発モデルを模索している。) ｜ 名詞は la sostenibilidad。中南米では sustentable も使う
+la huella de carbono ｜ 【例】 Los vuelos aumentan mucho tu huella de carbono. (飛行機はカーボンフットプリントを大きく増やす。)
+el envase ｜ 【例】 Muchos supermercados ya no usan envases de plástico. (多くのスーパーはもうプラスチック容器を使っていない。)
+desechable ｜ 【例】 Intento evitar los vasos desechables. (使い捨てカップは避けるようにしている。)
+ahorrar energía ｜ 【例】 Apagar las luces es una forma sencilla de ahorrar energía. (電気を消すのは簡単な省エネの方法だ。)
+el efecto invernadero ｜ 【例】 El metano contribuye al efecto invernadero. (メタンは温室効果に寄与する。)
+el deshielo ｜ 【例】 El deshielo de los glaciares andinos preocupa a los científicos. (アンデスの氷河の融解が科学者を心配させている。)
+el nivel del mar ｜ 【例】 El nivel del mar podría subir más de un metro. (海面は1メートル以上上昇する可能性がある。)
+la flora y la fauna autóctonas ｜ 【例】 El parque protege la flora y la fauna autóctonas. (その公園は固有の動植物を保護している。) ｜ autóctono=その土地固有の。チリでは nativo も使う
+el impacto ambiental ｜ 【例】 Todo proyecto minero necesita un estudio de impacto ambiental. (すべての鉱業プロジェクトには環境影響評価が必要だ。) ｜ チリでは EIA と略し、審査は SEA が担当
+el ecologista ｜ 【例】 Los ecologistas protestaron contra la construcción de la represa. (環境保護活動家たちはダム建設に抗議した。) ｜ ダムはスペインで presa / embalse、チリでは represa / embalse
+la ola de calor ｜ 【例】 La ola de calor batió récords de temperatura. (熱波が気温の記録を更新した。) ｜ batir un récord=記録を破る
+el desastre natural ｜ 【例】 Chile está muy expuesto a desastres naturales como terremotos y tsunamis. (チリは地震や津波などの自然災害に大きくさらされている。)
+
+# ===== DELE B2: 社会・政治 =====
+la desigualdad ｜ 【例】 La desigualdad de ingresos sigue siendo alta. (所得格差は依然として大きい。)
+la pobreza ｜ 【例】 Miles de familias viven por debajo del umbral de la pobreza. (何千もの家族が貧困線以下で暮らしている。) ｜ el umbral=閾値・敷居
+la inmigración ｜ 【例】 La inmigración ha cambiado la composición de la población. (移民は人口構成を変えた。)
+la integración ｜ 【例】 El idioma es clave para la integración de los inmigrantes. (言語は移民の統合の鍵だ。)
+la discriminación ｜ 【例】 La ley castiga la discriminación por motivos de origen. (法律は出自による差別を罰している。)
+la igualdad de género ｜ 【例】 Aún queda mucho por hacer en igualdad de género. (男女平等についてはまだやるべきことが多い。) ｜ quedar mucho por hacer=まだやるべきことが多い
+la brecha salarial ｜ 【例】 La brecha salarial entre hombres y mujeres persiste. (男女の賃金格差は依然として残っている。)
+el envejecimiento de la población ｜ 【例】 El envejecimiento de la población pone en riesgo las pensiones. (人口の高齢化は年金を危うくしている。)
+la natalidad ｜ 【例】 La tasa de natalidad es la más baja de la historia. (出生率は史上最低だ。)
+la abstención ｜ 【例】 La abstención fue muy alta en las últimas elecciones. (前回の選挙では棄権率が非常に高かった。) ｜ チリは現在、義務投票制
+la oposición ｜ 【例】 La oposición criticó duramente la reforma. (野党は改革を激しく批判した。) ｜ 「採用試験」の意味もある(スペイン)
+aprobar una ley ｜ 【例】 El Congreso aprobó la ley por amplia mayoría. (議会は圧倒的多数でその法律を可決した。)
+la manifestación ｜ 【例】 Miles de personas participaron en la manifestación. (何千人もの人がデモに参加した。) ｜ チリでは「la marcha」がよく使われる
+reivindicar ｜ 【例】 Los vecinos reivindican más zonas verdes. (住民たちはもっと緑地を求めている。) ｜ 緑地はチリで「áreas verdes」
+la ciudadanía ｜ 【例】 La ciudadanía exige más transparencia. (市民はもっと透明性を求めている。) ｜ 「市民権」の意味もある
+la corrupción ｜ 【例】 La corrupción daña la confianza en las instituciones. (汚職は制度への信頼を損なう。)
+renunciar ｜ 【例】 La ministra renunció a su cargo tras el escándalo. (大臣はスキャンダル後に辞任した。) ｜ スペインでは dimitir(名詞 la dimisión)、チリでは renunciar(la renuncia)が普通
+la delincuencia ｜ 【例】 La delincuencia es la principal preocupación de los ciudadanos. (犯罪は市民の最大の関心事だ。)
+la seguridad ciudadana ｜ 【例】 El alcalde prometió reforzar la seguridad ciudadana. (市長は治安強化を約束した。)
+el acceso a la vivienda ｜ 【例】 El acceso a la vivienda es cada vez más difícil para los jóvenes. (若者にとって住宅の入手はますます難しくなっている。)
+dispararse ｜ 【例】 El precio de los alquileres se ha disparado. (家賃が急騰した。) ｜ 家賃はスペインで alquiler、チリでは arriendo
+el voluntariado ｜ 【例】 Hace voluntariado en un comedor social los fines de semana. (週末は炊き出しの食堂でボランティアをしている。)
+sin hogar ｜ 【例】 El frío es un gran peligro para las personas sin hogar. (寒さはホームレスの人々にとって大きな危険だ。) ｜ チリでは「personas en situación de calle」と言うことが多い
+la solidaridad ｜ 【例】 La catástrofe despertó una gran ola de solidaridad. (その大惨事は大きな連帯の波を呼び起こした。)
+el estado de bienestar ｜ 【例】 El estado de bienestar garantiza servicios básicos para todos. (福祉国家は全員に基本的サービスを保障する。)
+la encuesta ｜ 【例】 Según la última encuesta, la mayoría apoya la medida. (最新の世論調査によれば、大多数がその措置を支持している。)
+tomar medidas ｜ 【例】 El gobierno debe tomar medidas urgentes. (政府は緊急の措置を取るべきだ。)
+el derecho a ｜ 【例】 Todos tienen derecho a una vivienda digna. (誰もが人間らしい住まいへの権利を持つ。) ｜ 「法律(学)」の意味もある
+la convivencia ｜ 【例】 La convivencia entre culturas no siempre es fácil. (異文化間の共生は必ずしも容易ではない。)
+el consumismo ｜ 【例】 El consumismo nos hace comprar cosas que no necesitamos. (消費主義は必要のない物を買わせる。) ｜ 関係節の中は直説法(実在するもの)
+
+# ===== DELE B2: テクノロジー・メディア =====
+la inteligencia artificial ｜ 【例】 La inteligencia artificial transformará muchas profesiones. (AIは多くの職業を変えるだろう。)
+las redes sociales ｜ 【例】 Paso demasiado tiempo en las redes sociales. (SNSに時間を使いすぎている。)
+la privacidad ｜ 【例】 Muchas aplicaciones no respetan la privacidad del usuario. (多くのアプリが利用者のプライバシーを尊重していない。)
+los datos personales ｜ 【例】 Nunca compartas tus datos personales por teléfono. (電話で個人情報を決して教えないで。) ｜ 否定命令は接続法(compartas)
+la brecha digital ｜ 【例】 La brecha digital afecta sobre todo a las personas mayores. (デジタル格差は特に高齢者に影響する。)
+el ordenador ｜ 【例】 Necesito un ordenador portátil nuevo. (新しいノートパソコンが必要だ。) ｜ スペインの語。チリでは el computador(ノートPCは el notebook)
+el móvil ｜ 【例】 Me quedé sin batería en el móvil. (携帯の電池が切れた。) ｜ スペインの語。チリでは el celular
+la pantalla ｜ 【例】 Los niños pasan demasiadas horas frente a la pantalla. (子どもたちは画面の前で過ごす時間が長すぎる。)
+la adicción ｜ 【例】 La adicción al móvil es cada vez más común. (スマホ依存はますます一般的になっている。)
+la ciberseguridad ｜ 【例】 La empresa reforzó su ciberseguridad tras el ataque. (攻撃の後、会社はサイバーセキュリティを強化した。)
+el ciberacoso ｜ 【例】 El ciberacoso es un problema grave en los colegios. (ネットいじめは学校で深刻な問題だ。) ｜ いじめ全般は el acoso escolar(チリでは bullying も一般的)
+el bulo ｜ 【例】 Los bulos se difunden más rápido que las noticias reales. (デマは本当のニュースより速く広まる。) ｜ スペインの語。中南米では noticias falsas / fake news
+la libertad de prensa ｜ 【例】 La libertad de prensa es fundamental en una democracia. (報道の自由は民主主義に不可欠だ。)
+el titular ｜ 【例】 El titular no refleja el contenido del artículo. (見出しが記事の内容を反映していない。) ｜ 「(口座の)名義人」「レギュラー選手」の意味もある
+la fuente ｜ 【例】 Hay que comprobar siempre la fuente de la información. (情報源は必ず確認しなければならない。) ｜ 「泉・噴水」「大皿」の意味もある
+la cadena ｜ 【例】 La cadena emitió el partido en directo. (そのテレビ局は試合を生中継した。) ｜ 「生で」はスペインで en directo、中南米では en vivo
+la publicidad ｜ 【例】 La publicidad dirigida utiliza nuestros datos. (ターゲット広告は私たちのデータを利用する。)
+el usuario / la usuaria ｜ 【例】 La aplicación ya tiene diez millones de usuarios. (そのアプリはすでに1千万人の利用者がいる。)
+el dispositivo ｜ 【例】 Puedes usar la cuenta en tres dispositivos. (そのアカウントは3台の端末で使える。)
+actualizar ｜ 【例】 Conviene actualizar el sistema operativo. (OSをアップデートしたほうがいい。) ｜ conviene + 不定詞=〜した方がよい
+la nube ｜ 【例】 Guardo todas las fotos en la nube. (写真はすべてクラウドに保存している。)
+el comercio electrónico ｜ 【例】 El comercio electrónico creció mucho durante la pandemia. (ネット通販はパンデミック中に大きく伸びた。)
+la herramienta ｜ 【例】 Las hojas de cálculo son una herramienta muy útil. (表計算ソフトはとても便利な道具だ。)
+el algoritmo ｜ 【例】 El algoritmo decide qué vídeos ves. (アルゴリズムがあなたの見る動画を決めている。) ｜ 動画はスペインで vídeo、中南米では video
+la automatización ｜ 【例】 La automatización eliminará algunos puestos de trabajo. (自動化により一部の仕事はなくなるだろう。)
+el/la influencer ｜ 【例】 Las marcas pagan a influencers para promocionar sus productos. (ブランドは商品を宣伝するためにインフルエンサーにお金を払う。)
+la suscripción ｜ 【例】 Cancelé la suscripción porque casi no la usaba. (ほとんど使っていなかったのでサブスクを解約した。)
+la conexión ｜ 【例】 En el campo la conexión es muy inestable. (田舎では接続がとても不安定だ。)
+la realidad virtual ｜ 【例】 Con unas gafas de realidad virtual puedes visitar museos. (VRゴーグルで美術館を訪れることができる。) ｜ 眼鏡はスペインで gafas、チリでは lentes
+la contraseña ｜ 【例】 Conviene cambiar la contraseña cada pocos meses. (数か月ごとにパスワードを変えた方がいい。) ｜ チリでは「la clave」も一般的
+
+# ===== DELE B2: 人間関係・感情・性格 =====
+llevarse bien / mal ｜ 【例】 Me llevo muy bien con mis compañeros de trabajo. (同僚ととても仲が良い。)
+la pareja ｜ 【例】 Mi pareja y yo nos conocimos en el trabajo. (パートナーと私は職場で知り合った。) ｜ 性別を問わない中立的な語。チリ口語では pololo/polola(恋人)
+separarse ｜ 【例】 Se separaron tras quince años de matrimonio. (彼らは結婚15年で別れた。)
+echar de menos ｜ 【例】 Echo de menos a mi familia. (家族が恋しい。) ｜ スペインの言い方。チリ・中南米では「extrañar」が普通
+confiar en ｜ 【例】 Puedes confiar en ella; nunca te fallará. (彼女を信頼していい。決して君を裏切らない。) ｜ fallar a alguien=期待を裏切る
+el compromiso ｜ 【例】 Su compromiso con el equipo es admirable. (チームへの彼の献身は見事だ。) ｜ 「婚約」「約束・用事」の意味もある
+discutir ｜ 【例】 Siempre discutimos por tonterías. (私たちはいつもくだらないことで口論する。) ｜ 「議論する」だけでなく「口論する」の意味でよく使う
+reconciliarse ｜ 【例】 Después de meses sin hablarse, al final se reconciliaron. (何か月も口をきかなかった後、最終的に仲直りした。)
+disculparse ｜ 【例】 Se disculpó por llegar tarde a la reunión. (会議に遅れたことを詫びた。)
+celoso/a ｜ 【例】 Es muy celoso y eso le trae problemas. (彼はとても嫉妬深く、それが問題を起こす。) ｜ 名詞は los celos(恋愛の嫉妬、常に複数形)
+la envidia ｜ 【例】 Le tienen envidia por su éxito. (彼の成功が妬まれている。) ｜ celos=恋愛の嫉妬、envidia=人の持ち物・成功への妬み
+el orgullo ｜ 【例】 Siento orgullo de lo que hemos logrado. (私たちが成し遂げたことを誇りに思う。) ｜ 「傲慢」の意味もある
+la vergüenza ｜ 【例】 Me dio vergüenza hablar en público. (人前で話すのが恥ずかしかった。) ｜ チリ口語では「¡Qué plancha!」(恥ずかしい!)とも言う
+agobiado/a ｜ 【例】 Estoy agobiado con tanto trabajo. (仕事が多すぎて参っている。) ｜ チリでは「colapsado/a」もよく使う
+decepcionado/a ｜ 【例】 Me sentí decepcionado con el resultado. (結果にがっかりした。) ｜ 「decepción」は「失望」(「欺瞞」ではない)
+ilusionado/a ｜ 【例】 Está muy ilusionada con el viaje. (彼女は旅行をとても楽しみにしている。) ｜ la ilusión=期待・わくわく(「錯覚」の意味もある)
+harto/a ｜ 【例】 Estoy harto del ruido de los vecinos. (隣人の騒音にうんざりだ。) ｜ チリ口語では「chato/a」も同じ意味。チリでは harto=「たくさん」(harta gente)の用法も頻出
+arrepentirse ｜ 【例】 No me arrepiento de haber venido a Chile. (チリに来たことを後悔していない。) ｜ arrepentirse de + 完了不定詞(haber + 過去分詞)
+el carácter ｜ 【例】 Tiene un carácter fuerte, pero es muy justo. (彼は気が強いがとても公平だ。) ｜ 複数形は caracteres(アクセント位置が移動)
+terco/a ｜ 【例】 Es tan terco que nunca admite sus errores. (彼は頑固すぎて自分の間違いを決して認めない。) ｜ チリでは「porfiado/a」が一般的
+comprensivo/a ｜ 【例】 Mi jefa es muy comprensiva con los horarios. (上司は勤務時間にとても理解がある。) ｜ 「包括的な」は exhaustivo / completo
+egoísta ｜ 【例】 Fue una decisión egoísta. (それは身勝手な決断だった。) ｜ 男女同形
+sensible ｜ 【例】 Es una persona muy sensible a las críticas. (彼は批判にとても敏感な人だ。) ｜ 偽の友:「分別がある」は sensato/a
+madurar ｜ 【例】 Ha madurado mucho desde que vive solo. (一人暮らしを始めてから彼はずいぶん成長した。) ｜ 果物が「熟す」の意味も
+apoyar ｜ 【例】 Mis padres siempre me apoyaron en mis decisiones. (両親はいつも私の決断を支えてくれた。) ｜ 名詞は el apoyo
+la soledad ｜ 【例】 La soledad no deseada afecta a muchos mayores. (望まない孤独は多くの高齢者に影響している。)
+quedar con alguien ｜ 【例】 He quedado con unos amigos para cenar. (友人たちと夕食の約束をした。) ｜ スペインの言い方。チリでは「juntarse con」
+el rencor ｜ 【例】 No le guardo rencor. (彼を恨んではいない。) ｜ guardar rencor=恨みを抱く
+la nostalgia ｜ 【例】 Siento nostalgia de mi infancia. (子どもの頃が懐かしい。)
+la autoestima ｜ 【例】 Las críticas constantes bajan la autoestima. (絶え間ない批判は自己肯定感を下げる。)
+
+# ===== DELE B2: 接続表現・意見 =====
+no obstante ｜ 【例】 Hubo problemas técnicos; no obstante, el evento fue un éxito. (技術的問題があった。それでもイベントは成功した。) ｜ sin embargo より硬い。作文で使うと評価が上がる
+por lo tanto ｜ 【例】 No hay presupuesto; por lo tanto, se aplaza el proyecto. (予算がない。したがってプロジェクトは延期される。)
+en cambio ｜ 【例】 Mi hermano es muy ordenado; yo, en cambio, soy un desastre. (兄はとても几帳面だ。それに対して私はめちゃくちゃだ。)
+a pesar de ｜ 【例】 A pesar de la lluvia, salimos a correr. (雨にもかかわらず走りに出た。) ｜ 節が続くときは a pesar de que
+aunque + 接続法 ｜ 【例】 Aunque llueva mañana, iremos a la playa. (たとえ明日雨が降っても海に行く。) ｜ 直説法なら事実(雨が降っているが)、接続法なら仮定・譲歩
+siempre que + 接続法 ｜ 【例】 Puedes usar mi coche siempre que lo cuides. (大事にしてくれるなら私の車を使っていい。) ｜ 条件の意味。直説法なら「〜する時はいつも」。車はチリで auto
+a no ser que ｜ 【例】 Iremos en tren, a no ser que prefieras conducir. (君が運転したいのでなければ、電車で行こう。) ｜ 常に接続法。運転するはチリで manejar
+con tal de que ｜ 【例】 Te lo presto con tal de que me lo devuelvas mañana. (明日返してくれるなら貸すよ。) ｜ 常に接続法
+en cuanto ｜ 【例】 Te llamo en cuanto llegue a casa. (家に着いたらすぐ電話する。) ｜ 未来のことは接続法。「〜に関しては」(en cuanto a)とは別
+dado que ｜ 【例】 Dado que no hay quórum, se suspende la sesión. (定足数に達していないため、会議は中止とする。) ｜ 理由の接続詞で直説法。文頭で使いやすい
+puesto que ｜ 【例】 Puesto que ya lo sabes, no te lo repetiré. (もう知っているのだから、繰り返さない。)
+debido a ｜ 【例】 El vuelo se retrasó debido al mal tiempo. (悪天候のため便が遅れた。) ｜ 後ろは名詞。節なら debido a que
+de hecho ｜ 【例】 No es caro; de hecho, es más barato que el otro. (高くない。実際、もう一つより安い。)
+o sea ｜ 【例】 Llega el lunes, o sea, pasado mañana. (月曜、つまり明後日に着く。) ｜ チリ口語で非常によく使う。作文では es decir
+en definitiva ｜ 【例】 En definitiva, la propuesta tiene más ventajas que inconvenientes. (結局のところ、その提案は欠点より利点が多い。)
+por un lado..., por otro ｜ 【例】 Por un lado, ganaría más; por otro, tendría menos tiempo libre. (一方では稼ぎが増えるが、他方で自由時間が減るだろう。)
+asimismo ｜ 【例】 El informe analiza los costes; asimismo, propone alternativas. (報告書はコストを分析し、同様に代替案も提示している。) ｜ además の硬い言い方
+para concluir ｜ 【例】 Para concluir, me gustaría resumir los puntos principales. (結論として、主要な点をまとめたいと思います。)
+desde mi punto de vista ｜ 【例】 Desde mi punto de vista, la medida llega tarde. (私の見解では、その措置は遅すぎる。)
+no creo que + 接続法 ｜ 【例】 No creo que sea buena idea cambiar ahora. (今変えるのが良い考えだとは思わない。) ｜ 肯定 creo que は直説法、否定 no creo que は接続法
+es fundamental que + 接続法 ｜ 【例】 Es fundamental que todos participen. (全員が参加することが不可欠だ。) ｜ es necesario / importante / imprescindible que も同様
+estar a favor de ｜ 【例】 Estoy a favor de reducir la jornada laboral. (労働時間短縮に賛成だ。) ｜ 反対は estar en contra de
+coincidir con ｜ 【例】 Coincido contigo en que hay que actuar ya. (今すぐ行動すべきだという点で君と同意見だ。) ｜ 「偶然一致する・会う」の意味もある
+tener en cuenta ｜ 【例】 Hay que tener en cuenta el coste del transporte. (輸送費を考慮しなければならない。)
+cabe destacar que ｜ 【例】 Cabe destacar que las ventas subieron un 15 %. (売上が15%伸びたことは特筆すべきだ。) ｜ 作文・発表で使える硬い表現
+llevar a cabo ｜ 【例】 El estudio se llevó a cabo en cinco países. (その調査は5か国で実施された。)
+poner de manifiesto ｜ 【例】 El informe pone de manifiesto la falta de recursos. (報告書は資源不足を明らかにしている。)
+dar lugar a ｜ 【例】 La decisión dio lugar a numerosas protestas. (その決定は多くの抗議を引き起こした。)
+en lo que respecta a ｜ 【例】 En lo que respecta al precio, no hay diferencias. (価格に関しては違いはない。) ｜ en cuanto a / con respecto a も同義
+a medida que ｜ 【例】 A medida que avanzaba el curso, mejoraba mi nivel. (講座が進むにつれて私のレベルは上がっていった。) ｜ 未来のことなら接続法
