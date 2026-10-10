@@ -39,6 +39,13 @@ dialog label{display:block;margin:12px 0 4px;font-size:14px}
 dialog input[type=number]{width:90px;font-size:16px;padding:6px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
 .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:14px}
 .row button,.plain{font-size:15px;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--bg);color:var(--ink)}
+#decks{margin-top:10px;display:flex;flex-direction:column;gap:2px}
+.deck{display:flex;align-items:center;gap:10px;padding:9px 4px;border-bottom:1px solid var(--line);margin:0!important;font-size:15px!important}
+.deck input{width:20px;height:20px;accent-color:var(--accent)}
+.deck span{flex:1}
+.deck small{color:var(--muted)}
+#stats{cursor:pointer}
+dialog{max-height:88vh;overflow:auto}
 .small{font-size:12px;color:var(--muted);margin-top:12px;line-height:1.5}
 </style>
 </head>
@@ -59,7 +66,11 @@ dialog input[type=number]{width:90px;font-size:16px;padding:6px;border-radius:8p
 </div>
 
 <dialog id="menu">
-  <h2>設定・バックアップ</h2>
+  <h2>テーマを選ぶ</h2>
+  <div class="small" style="margin-top:0">新しいカードはチェックしたテーマから出ます(何も選ばなければ全テーマ)。復習カードはテーマに関係なく全部出ます。</div>
+  <div class="row"><button class="plain" id="allDecks">全部外す(=全テーマ)</button></div>
+  <div id="decks"></div>
+  <h2 style="margin-top:18px">設定・バックアップ</h2>
   <label for="newLimit">1日の新規カード数</label>
   <input type="number" id="newLimit" min="0" max="200">
   <div class="row">
@@ -89,8 +100,11 @@ let cards = [], queue = [], current = null, shown = false;
 // 形式: 単語 ｜ 【例】 例文 (訳)  ※全角｜または半角| で区切る。3列目以降は補足(スペイン/チリの違いなど)
 function parse(text){
   const seen = new Set(), out = [];
+  let deck = 'その他';
   for (const raw of text.split(/\r?\n/)){
     const line = raw.trim();
+    const h = line.match(/^#\s*=+\s*(.+?)\s*=+\s*$/);
+    if (h){ deck = h[1]; continue; }
     if (!line || line.startsWith('#')) continue;
     const parts = line.split(/\s*[｜|]\s*/);
     const front = parts[0];
@@ -100,7 +114,7 @@ function parse(text){
     let ex = back, tr = '';
     const m = back.match(/^(.*)[（(]([^()（）]*)[)）]\s*$/);
     if (m){ ex = m[1].trim(); tr = m[2].trim(); }
-    out.push({ id:front, front, ex, tr, note:parts.slice(2).join(' / ') });
+    out.push({ id:front, front, ex, tr, note:parts.slice(2).join(' / '), deck });
   }
   return out;
 }
@@ -122,22 +136,51 @@ const today = () => new Date().toLocaleDateString('sv');
 function buildQueue(){
   const now = Date.now();
   if (S.newToday.date !== today()) S.newToday = { date:today(), count:0 };
-  const due = [], fresh = [];
+  const sel = selectedDecks();
+  const due = [], freshBy = {};
   for (const c of cards){
     const p = S.progress[c.id];
-    if (!p) fresh.push(c);
-    else if (p.due <= now) due.push(c);
+    if (!p){ if (sel.has(c.deck)) (freshBy[c.deck] ||= []).push(c); }
+    else if (p.due <= now) due.push(c); // 復習はテーマに関係なく全部出す
   }
   due.sort((a,b) => S.progress[a.id].due - S.progress[b.id].due);
+  // 複数テーマ選択時は1枚ずつ交互に混ぜる
+  const lists = Object.values(freshBy), fresh = [];
+  for (let i = 0; lists.some(l => i < l.length); i++)
+    for (const l of lists) if (i < l.length) fresh.push(l[i]);
   const room = Math.max(0, S.newLimit - S.newToday.count);
   queue = [...due, ...fresh.slice(0, room)];
+}
+
+function deckNames(){ return [...new Set(cards.map(c => c.deck))]; }
+function selectedDecks(){
+  const all = deckNames();
+  const s = (S.decks || []).filter(d => all.includes(d));
+  return new Set(s.length ? s : all);
 }
 
 function stats(){
   const total = cards.length;
   const learned = cards.filter(c => S.progress[c.id]).length;
+  const s = (S.decks || []).filter(d => deckNames().includes(d));
+  const label = s.length === 0 ? '全テーマ' : s.length === 1 ? s[0].replace(/^DELE B2:\s*/, '') : `${s.length}テーマ`;
   document.getElementById('stats').textContent =
-    `残り ${queue.length} ｜ 学習済み ${learned}/${total}`;
+    `${label} ｜ 残り ${queue.length} ｜ 学習済み ${learned}/${total}`;
+}
+
+function renderDecks(){
+  const box = document.getElementById('decks');
+  const sel = new Set(S.decks || []);
+  box.innerHTML = deckNames().map((d, i) => {
+    const cs = cards.filter(c => c.deck === d);
+    const done = cs.filter(c => S.progress[c.id]).length;
+    return `<label class="deck"><input type="checkbox" data-d="${i}" ${sel.has(d) ? 'checked' : ''}>
+      <span>${esc(d.replace(/^DELE B2:\s*/, ''))}</span><small>${done}/${cs.length}</small></label>`;
+  }).join('');
+}
+function readDecks(){
+  const names = deckNames();
+  S.decks = [...document.querySelectorAll('#decks input:checked')].map(el => names[+el.dataset.d]);
 }
 
 const esc = s => s.replace(/[&<>"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]));
@@ -199,7 +242,12 @@ document.getElementById('ng').addEventListener('click', () => answer(false));
 
 // 設定
 const menu = document.getElementById('menu');
+document.getElementById('stats').onclick = () => document.getElementById('menuBtn').click();
+document.getElementById('allDecks').onclick = () => {
+  document.querySelectorAll('#decks input').forEach(el => el.checked = false);
+};
 document.getElementById('menuBtn').onclick = () => {
+  renderDecks();
   document.getElementById('newLimit').value = S.newLimit;
   document.getElementById('info').textContent =
     `カード総数: ${cards.length}\n最終同期: ${S.lastSync ? new Date(S.lastSync).toLocaleString('ja-JP') : 'なし'}`;
@@ -207,12 +255,13 @@ document.getElementById('menuBtn').onclick = () => {
 };
 document.getElementById('closeMenu').onclick = () => {
   const v = parseInt(document.getElementById('newLimit').value, 10);
-  if (!isNaN(v) && v >= 0){ S.newLimit = v; save(); }
+  if (!isNaN(v) && v >= 0){ S.newLimit = v; }
+  readDecks(); save();
   menu.close(); buildQueue(); render();
 };
 document.getElementById('syncBtn').onclick = async () => {
   document.getElementById('info').textContent = '同期中…';
-  await loadCards(true); buildQueue(); render();
+  await loadCards(true); buildQueue(); render(); renderDecks();
   document.getElementById('info').textContent = `同期しました(${cards.length}枚)`;
 };
 document.getElementById('exportBtn').onclick = () => {

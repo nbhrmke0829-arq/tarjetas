@@ -1,5 +1,5 @@
-// アプリ本体はキャッシュ優先、cards.txt はネット優先(オフライン時はキャッシュ)
-const CACHE = 'tarjetas-v1';
+// ネット優先・オフライン時はキャッシュ。これでアプリ本体の更新も自動で届く
+const CACHE = 'tarjetas-v2';
 const APP = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png', 'cards.txt'];
 
 self.addEventListener('install', e => {
@@ -14,18 +14,13 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
+  if (e.request.method !== 'GET') return;
   const url = new URL(e.request.url);
-  if (url.pathname.endsWith('cards.txt')){
-    e.respondWith(
-      fetch(e.request).then(r => {
-        const copy = r.clone();
-        caches.open(CACHE).then(c => c.put('cards.txt', copy));
-        return r;
-      }).catch(() => caches.match('cards.txt'))
-    );
-    return;
-  }
+  const key = url.pathname.endsWith('cards.txt') ? 'cards.txt' : e.request;
   e.respondWith(
-    caches.match(e.request, { ignoreSearch:true }).then(hit => hit || fetch(e.request))
+    fetch(e.request).then(r => {
+      if (r.ok){ const copy = r.clone(); caches.open(CACHE).then(c => c.put(key, copy)); }
+      return r;
+    }).catch(() => caches.match(key, { ignoreSearch:true }))
   );
 });
