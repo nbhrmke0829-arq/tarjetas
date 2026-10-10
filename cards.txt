@@ -1,11 +1,5 @@
 # 形式: 単語 ｜ 【例】 スペイン語例文 (日本語訳) ｜ 補足(任意。スペインとチリの違いなど)
 # 1行1枚。# で始まる行は無視。同じ単語が2回あれば最初の行だけ使う。
-# ===== チリ口語・サンプル =====
-estampado/a ｜ 【例】 Me gustan los vestidos estampados de flores. (私は花柄のワンピースが好きだ。)
-la polera ｜ 【例】 Me compré una polera blanca en el mall. (モールで白いTシャツを買った。) ｜ チリでは「Tシャツ」。スペインでは camiseta が一般的
-el pololo / la polola ｜ 【例】 Mi polola trabaja en Providencia. (僕の彼女はプロビデンシアで働いている。) ｜ チリ特有の「恋人」。スペインでは novio/novia
-la guagua ｜ 【例】 La guagua está durmiendo, habla despacito. (赤ちゃんが寝てるから小声で話して。) ｜ チリでは「赤ちゃん」。カナリア諸島やキューバでは「バス」の意味
-al tiro ｜ 【例】 Te mando el informe al tiro. (すぐに報告書を送るね。) ｜ チリ口語の「すぐに」。スペインでは enseguida / ahora mismo
 
 # ===== DELE B2: 仕事・経済 =====
 el desempleo ｜ 【例】 La tasa de desempleo ha bajado por tercer trimestre consecutivo. (失業率が3四半期連続で下がった。) ｜ スペインでは el paro もよく使う。チリでは la cesantía(失業手当は seguro de cesantía)
@@ -262,3 +256,99 @@ poner de manifiesto ｜ 【例】 El informe pone de manifiesto la falta de recu
 dar lugar a ｜ 【例】 La decisión dio lugar a numerosas protestas. (その決定は多くの抗議を引き起こした。)
 en lo que respecta a ｜ 【例】 En lo que respecta al precio, no hay diferencias. (価格に関しては違いはない。) ｜ en cuanto a / con respecto a も同義
 a medida que ｜ 【例】 A medida que avanzaba el curso, mejoraba mi nivel. (講座が進むにつれて私のレベルは上がっていった。) ｜ 未来のことなら接続法
+
+# ===== 弱点: 前置詞つき動詞(関係節で使う) =====
+depender de ｜ 【例】 Es una decisión de la que depende todo el proyecto. (それはプロジェクト全体がかかっている決定だ。) ｜ 関係節では前置詞を que の前に出す: de la que。que だけにしない
+contar con ｜ 【例】 Son proveedores con los que siempre podemos contar. (彼らはいつでも頼りにできる仕入れ先だ。) ｜ contar con=〜を頼りにする/〜を備えている。関係節: con los que
+tratarse de ｜ 【例】 No se trata de dinero, sino de confianza. (お金の問題ではなく、信頼の問題だ。) ｜ 主語を取らない(×El problema se trata de…)。DELE作文でよく間違えるポイント
+consistir en ｜ 【例】 La tarea en la que consiste la prueba es redactar una carta. (その試験の課題は手紙を書くことだ。) ｜ 関係節: en la que
+acordarse de ｜ 【例】 Es un viaje del que todavía me acuerdo. (今でも覚えている旅行だ。) ｜ de + el = del。recordar は前置詞なし(lo recuerdo)
+darse cuenta de ｜ 【例】 Me di cuenta de que había olvidado la clave. (パスワードを忘れていたことに気づいた。) ｜ de que を落とす誤り(queísmo)に注意。チリ口語では「cachar」とも言う
+enterarse de ｜ 【例】 Es la noticia de la que se enteró todo el mundo por la radio. (みんながラジオで知ったニュースだ。) ｜ 「(情報を)知る・聞きつける」。saber より動的
+fijarse en ｜ 【例】 Es un detalle en el que nadie se había fijado. (誰も気づいていなかった細部だ。) ｜ 「注目する・目を留める」。¡Fíjate! =「ほらね/考えてみて」
+soñar con ｜ 【例】 Es el trabajo con el que siempre había soñado. (ずっと夢見ていた仕事だ。) ｜ ×soñar de。前置詞は con
+insistir en ｜ 【例】 Insistió en que revisáramos el contrato otra vez. (彼は契約をもう一度見直すよう強く求めた。) ｜ 「〜するよう求める」意味では en que + 接続法
+renunciar a ｜ 【例】 Es un derecho al que no pienso renunciar. (それは私が放棄するつもりのない権利だ。) ｜ a + el = al。「辞任する」の意味では前置詞なしでも使う
+negarse a ｜ 【例】 El proveedor se negó a rebajar el precio. (仕入れ先は値下げを拒んだ。)
+atreverse a ｜ 【例】 Nadie se atrevió a contradecir al gerente. (誰も部長に反論する勇気がなかった。)
+dedicarse a ｜ 【例】 ¿A qué se dedica la empresa con la que trabajas? (あなたが取引している会社は何をしている会社ですか。) ｜ 職業を聞く定番: ¿A qué te dedicas?
+quejarse de ｜ 【例】 Es un problema del que se quejan todos los vecinos. (住民みんなが不満を言っている問題だ。)
+preocuparse por ｜ 【例】 Es lo único por lo que me preocupo. (それが私が心配している唯一のことだ。) ｜ lo que の前に前置詞: por lo que
+optar por ｜ 【例】 Al final optamos por la oferta más barata. (結局、一番安い見積もりを選んだ。) ｜ 硬めの「選ぶ」。作文で elegir の言い換えに
+apostar por ｜ 【例】 Es una tecnología por la que muchas mineras están apostando. (多くの鉱山会社が力を入れている技術だ。)
+encargarse de ｜ 【例】 Es la persona que se encarga de las compras. (購買を担当している人だ。) ｜ 「担当する・引き受ける」。Yo me encargo.=私がやります
+carecer de ｜ 【例】 El informe carece de datos fiables. (その報告書には信頼できるデータが欠けている。) ｜ 硬い表現。no tener の言い換えで作文の評価が上がる
+influir en ｜ 【例】 Es un factor que influye en el precio final. (最終価格に影響する要因だ。) ｜ ×influir a。名詞は la influencia
+tardar en ｜ 【例】 El pedido tardó tres semanas en llegar. (注文品が届くのに3週間かかった。) ｜ 時間 + en + 不定詞
+enfrentarse a ｜ 【例】 Son retos a los que nos enfrentamos cada día. (私たちが毎日直面している課題だ。) ｜ hacer frente a も同義
+comprometerse a ｜ 【例】 La empresa se comprometió a entregar el material antes del lunes. (会社は月曜までに資材を納めると約束した。)
+oponerse a ｜ 【例】 Es una medida a la que se opone la mayoría. (大多数が反対している措置だ。)
+despedirse de ｜ 【例】 Se despidió de todos antes de jubilarse. (彼は退職前に皆に別れを告げた。) ｜ despedir(他動詞)=解雇する/見送る、despedirse de=別れを告げる
+aprovecharse de ｜ 【例】 Se aprovechó de la situación para subir los precios. (彼はその状況に乗じて値上げした。) ｜ aprovechar(前置詞なし)=活用する。aprovecharse de=つけ込む(否定的)
+equivocarse de ｜ 【例】 Me equivoqué de número y llamé a otra persona. (番号を間違えて別の人に電話した。) ｜ 「〜を取り違える」。equivocarse en=〜で間違える
+interesarse por ｜ 【例】 Es un tema por el que se interesan cada vez más jóvenes. (ますます多くの若者が関心を持っているテーマだ。)
+pensar en ｜ 【例】 Es la solución en la que estaba pensando. (私が考えていた解決策だ。) ｜ pensar de=〜について意見を持つ(¿Qué piensas de…?)
+
+# ===== 弱点: コロケーション(動詞+名詞) =====
+tomar una decisión ｜ 【例】 Tenemos que tomar una decisión antes del viernes. (金曜までに決断しなければならない。) ｜ ×hacer una decisión(英語の直訳に注意)
+hacer frente a ｜ 【例】 La empresa no pudo hacer frente a sus deudas. (会社は負債に対処できなかった。)
+poner en marcha ｜ 【例】 El gobierno puso en marcha un nuevo plan de empleo. (政府は新しい雇用計画を始動させた。) ｜ 「機械を動かす」の意味も
+desempeñar un papel ｜ 【例】 La minería desempeña un papel clave en la economía chilena. (鉱業はチリ経済で重要な役割を果たしている。) ｜ jugar un papel も可だが、desempeñar の方が硬く作文向き
+cumplir un objetivo ｜ 【例】 Este año cumplimos todos los objetivos de ventas. (今年は売上目標をすべて達成した。) ｜ alcanzar una meta / lograr un objetivo も同義
+cometer un error ｜ 【例】 Cometí un error al calcular el presupuesto. (予算の計算でミスをした。) ｜ ×hacer un error
+correr un riesgo ｜ 【例】 No quiero correr el riesgo de quedarme sin stock. (在庫切れになるリスクは冒したくない。)
+plantear un problema ｜ 【例】 El cambio de proveedor plantea varios problemas. (仕入れ先の変更はいくつかの問題を生む。) ｜ plantear una pregunta=質問を提起する
+prestar atención ｜ 【例】 Hay que prestar atención a los detalles del contrato. (契約の細部に注意を払う必要がある。)
+tomar conciencia ｜ 【例】 La sociedad ha tomado conciencia del problema del agua. (社会は水問題を自覚するようになった。) ｜ ser consciente de=〜を自覚している
+hacer hincapié en ｜ 【例】 El director hizo hincapié en la seguridad. (所長は安全を強調した。) ｜ subrayar / destacar の言い換え。作文・口頭で便利
+poner fin a ｜ 【例】 El acuerdo puso fin a la huelga. (その合意がストライキを終わらせた。)
+sacar conclusiones ｜ 【例】 Es pronto para sacar conclusiones. (結論を出すのはまだ早い。)
+llegar a un acuerdo ｜ 【例】 Después de dos semanas, llegamos a un acuerdo con el proveedor. (2週間後、仕入れ先と合意に達した。)
+ejercer presión ｜ 【例】 Los sindicatos ejercen presión sobre el gobierno. (労組は政府に圧力をかけている。) ｜ presionar の硬い言い方
+rendir cuentas ｜ 【例】 Los directivos deben rendir cuentas ante el directorio. (役員は取締役会に対して説明責任を負う。) ｜ 取締役会はスペインで consejo de administración、チリでは directorio
+contraer una deuda ｜ 【例】 La empresa contrajo una deuda enorme para financiar la obra. (会社は工事の資金調達のため巨額の負債を抱えた。) ｜ contraer matrimonio=結婚する(公的)、contraer una enfermedad=病気にかかる
+conciliar el sueño ｜ 【例】 Con tanto estrés, no consigo conciliar el sueño. (ストレスが多すぎて寝つけない。) ｜ 「寝つく」の定番コロケーション
+guardar silencio ｜ 【例】 Todos guardaron silencio durante el minuto de homenaje. (黙祷の1分間、全員が沈黙を守った。)
+cobrar importancia ｜ 【例】 La sostenibilidad ha cobrado importancia en los últimos años. (持続可能性はここ数年で重要性を増した。) ｜ cobrar=「(料金を)取る」以外に「(性質を)帯びる」
+poner en duda ｜ 【例】 Nadie pone en duda su experiencia. (誰も彼の経験を疑っていない。) ｜ cuestionar の言い換え
+sacar adelante ｜ 【例】 Sacó adelante el proyecto a pesar de las dificultades. (困難にもかかわらず彼はプロジェクトをやり遂げた。) ｜ 「家族を養う」の意味でも使う(sacar adelante a su familia)
+dar un paso ｜ 【例】 Es un paso importante hacia la digitalización. (デジタル化への重要な一歩だ。) ｜ dar el primer paso=最初の一歩を踏み出す
+tener lugar ｜ 【例】 La reunión tendrá lugar en la sala del directorio. (会議は役員会議室で行われる。) ｜ celebrarse も同義(La reunión se celebrará…)
+dejar constancia ｜ 【例】 Quiero dejar constancia de mi desacuerdo en el acta. (議事録に私の反対意見を記録しておきたい。) ｜ 議事録・公式文書の定番表現
+asumir la responsabilidad ｜ 【例】 El gerente asumió la responsabilidad del error. (部長はミスの責任を引き受けた。)
+sacar provecho de ｜ 【例】 Hay que sacar provecho de la experiencia de los mayores. (年長者の経験を活かさなければならない。) ｜ aprovechar の言い換え
+dar prioridad a ｜ 【例】 Daremos prioridad a los pedidos urgentes. (緊急の注文を優先する。) ｜ priorizar も可
+abrir paso a ｜ 【例】 La nueva ley abre paso a la inversión extranjera. (新法は外国投資への道を開く。)
+atravesar una crisis ｜ 【例】 El sector atraviesa una crisis sin precedentes. (その業界は前例のない危機に直面している。) ｜ sin precedentes=前例のない(B2頻出)
+
+# ===== 弱点: 聞き取りで落としやすい口語表現 =====
+dar igual ｜ 【例】 Me da igual el color, lo importante es el precio. (色はどうでもいい。大事なのは値段だ。) ｜ チリでは「me da lo mismo」が多い
+valer la pena ｜ 【例】 No vale la pena discutir por eso. (そんなことで言い争う価値はない。)
+menos mal ｜ 【例】 Menos mal que trajiste paraguas. (傘を持ってきてくれてよかった。) ｜ menos mal que + 直説法
+a lo mejor ｜ 【例】 A lo mejor llueve esta tarde. (もしかしたら午後雨が降るかも。) ｜ quizás と違い、常に直説法
+¡Qué va! ｜ 【例】 —¿Estás cansado? —¡Qué va! Estoy perfecto. (「疲れた?」「全然!絶好調だよ」) ｜ 強い否定。スペインで多い。チリでは「¡Para nada!」
+¡Ni hablar! ｜ 【例】 —¿Me prestas el auto? —¡Ni hablar! (「車貸してくれる?」「絶対だめ!」)
+echar una mano ｜ 【例】 ¿Me echas una mano con estas cajas? (この箱を運ぶの手伝ってくれる?) ｜ チリでは「dar una mano」も使う
+meter la pata ｜ 【例】 Metí la pata al mencionar su ex. (彼の元恋人の話を出して失言してしまった。) ｜ 「へまをする・失言する」。チリでは「embarrarla」とも
+tomar el pelo ｜ 【例】 No te creo, me estás tomando el pelo. (信じないよ、からかってるんだろう。) ｜ チリでは「agarrar para el leseo」も
+costar un ojo de la cara ｜ 【例】 Arreglar el auto me costó un ojo de la cara. (車の修理にものすごくお金がかかった。) ｜ チリでも通じる
+estar en las nubes ｜ 【例】 Hoy estás en las nubes, no escuchas nada. (今日はぼんやりしてるね、何も聞いてない。) ｜ チリでは「estar en la luna」も
+ponerse las pilas ｜ 【例】 Si quieres aprobar, tienes que ponerte las pilas. (合格したいなら本気を出さないと。) ｜ チリでもよく使う
+ir al grano ｜ 【例】 No tengo mucho tiempo, así que vamos al grano. (時間があまりないので、本題に入ろう。)
+hacerse el sueco ｜ 【例】 Le pregunté por el dinero y se hizo el sueco. (お金のことを聞いたら、彼は知らんぷりをした。) ｜ スペインの言い方。チリでは「hacerse el leso」
+ser pan comido ｜ 【例】 El examen oral fue pan comido. (口頭試験は楽勝だった。)
+quedarse en blanco ｜ 【例】 Me quedé en blanco en mitad de la presentación. (発表の途中で頭が真っ白になった。)
+estar al tanto ｜ 【例】 Mantenme al tanto de cualquier novedad. (何か新しいことがあったら知らせて。) ｜ estar al tanto de=〜を把握している
+salirse con la suya ｜ 【例】 Siempre se sale con la suya. (彼はいつも自分の思い通りにする。)
+dar en el clavo ｜ 【例】 Con ese comentario diste en el clavo. (その一言は核心を突いていた。)
+hacer la vista gorda ｜ 【例】 El supervisor hizo la vista gorda ante el retraso. (監督者は遅刻を見て見ぬふりをした。)
+llevarse un chasco ｜ 【例】 Me llevé un chasco con el hotel; no era como en las fotos. (ホテルにがっかりした。写真と違った。) ｜ 「期待外れでがっかりする」
+a estas alturas ｜ 【例】 A estas alturas ya no podemos cambiar el plan. (今さら計画は変えられない。) ｜ 「この段階になって・今さら」
+de buenas a primeras ｜ 【例】 De buenas a primeras, decidió renunciar. (彼はいきなり辞めると決めた。) ｜ 「突然・出し抜けに」
+a la larga ｜ 【例】 A la larga, comprar calidad sale más barato. (長い目で見れば、質の良い物を買う方が安くつく。) ｜ salir barato/caro=結果的に安く/高くつく
+al fin y al cabo ｜ 【例】 Al fin y al cabo, es su decisión. (結局のところ、それは彼の決断だ。)
+por si acaso ｜ 【例】 Llévate una chaqueta, por si acaso. (念のため上着を持っていって。) ｜ 上着はチリで「la chaqueta / el polerón」(パーカーは polerón)
+en un abrir y cerrar de ojos ｜ 【例】 Las entradas se agotaron en un abrir y cerrar de ojos. (チケットはあっという間に売り切れた。)
+no tener pelos en la lengua ｜ 【例】 Mi jefa no tiene pelos en la lengua: dice lo que piensa. (上司は歯に衣着せない。思ったことを言う。)
+dar la lata ｜ 【例】 Los niños no paran de dar la lata. (子どもたちがずっとうるさくせがんでいる。) ｜ スペインの言い方。チリで「¡Qué lata!」は「面倒くさい・つまらない」の意味
+poner al día ｜ 【例】 Después de las vacaciones, mi compañero me puso al día. (休暇明けに同僚が最新状況を教えてくれた。) ｜ ponerse al día=遅れを取り戻す
