@@ -24,6 +24,8 @@ h1{font-size:18px;margin:4px 0;color:var(--accent)}
 .back .tr{color:var(--muted);font-size:16px;margin-top:6px}
 .back .note{margin-top:14px;font-size:14px;background:var(--bg);border-radius:10px;padding:10px 12px;color:var(--ink)}
 .shown .back{display:block}
+.ask{display:block;margin:16px auto 0;font-size:14px;padding:9px 16px;border-radius:999px;border:1px solid var(--accent);background:none;color:var(--accent)}
+.toast{position:fixed;left:50%;bottom:110px;transform:translateX(-50%);background:var(--ink);color:var(--bg);padding:10px 14px;border-radius:10px;font-size:14px;max-width:90vw;text-align:center}
 .hint{text-align:center;color:var(--muted);font-size:13px;margin-top:18px}
 .shown .hint{display:none}
 .buttons{display:grid;grid-template-columns:1fr 1fr;gap:12px}
@@ -205,6 +207,7 @@ function render(){
        <div class="ex">${esc(current.ex)}</div>
        ${current.tr ? `<div class="tr">${esc(current.tr)}</div>` : ''}
        ${current.note ? `<div class="note">${esc(current.note)}</div>` : ''}
+       <button class="ask" id="ask">Claudeに質問する ↗</button>
      </div>
      <div class="hint">タップで答えを表示</div>`;
 }
@@ -236,7 +239,31 @@ function answer(good){
   render();
 }
 
-document.getElementById('card').addEventListener('click', reveal);
+document.getElementById('card').addEventListener('click', e => {
+  if (e.target.closest('#ask')){ askClaude(); return; }
+  reveal();
+});
+
+function toast(msg){
+  const t = document.createElement('div'); t.className = 'toast'; t.textContent = msg;
+  document.body.appendChild(t); setTimeout(() => t.remove(), 3500);
+}
+
+async function askClaude(){
+  if (!current) return;
+  if (!navigator.onLine){ toast('オフラインです。ネットにつながってから使ってください'); return; }
+  const c = current;
+  const text =
+`DELE B2に向けてスペイン語(チリ在住)を勉強中です。単語カードについて質問です。日本語で、結論から簡潔に答えてください。
+
+単語: ${c.front}
+例文: ${c.ex}${c.tr ? `\n訳: ${c.tr}` : ''}${c.note ? `\n補足: ${c.note}` : ''}
+
+質問: `;
+  try { await navigator.clipboard.writeText(text); } catch {}
+  toast('カード内容をコピーしました。開いた画面で質問を書き足してください');
+  setTimeout(() => window.open('https://claude.ai/new?q=' + encodeURIComponent(text), '_blank'), 600);
+}
 document.getElementById('ok').addEventListener('click', () => answer(true));
 document.getElementById('ng').addEventListener('click', () => answer(false));
 
